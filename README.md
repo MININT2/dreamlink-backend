@@ -1,2 +1,2 @@
 # dreamlink-backend
-the server backend for dreamlink.minint.dev
+the server backend for https://dreamlink.minint.dev/
